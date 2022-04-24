@@ -1,7 +1,8 @@
 # IndoorLocalization
 
-# 4.4節 屋内位置推定精度評価実験結果
+# 4.4節 屋内位置推定システムの性能評価実験
 
+表1　各シナリオ，類似度尺度における屋内位置推定結果デモ動画のリンク
 |  シナリオ |  類似度尺度  | デモ動画リンク |
 | :----: | :----: | :----: |
 |  ①  |  SSD<br>NCC<br>ZNCC<br>  | [シナリオ１_SSD](https://waseda.box.com/s/mmfnjdca6ut9xtwhmdu3b1fyf0qwazud) <br> [シナリオ１_NCC](https://waseda.box.com/s/b6z2zreml25b7pozsl8f2te3kqe6ua1q) <br> [シナリオ１_ZNCC](https://waseda.box.com/s/lxd40nfmjnqmviyfw8vzp0x6het4g5jt) |
